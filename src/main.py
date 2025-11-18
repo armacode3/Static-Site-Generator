@@ -1,6 +1,5 @@
 from textnode import TextNode, TextType
 
-
 if __name__ == '__main__':
     # plain text
     print(TextNode("Hello world", TextType.TEXT))
